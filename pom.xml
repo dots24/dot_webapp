@@ -8,7 +8,7 @@
 	<name>Web Application</name>
 	<description>Java Webapp</description>
 	<dependencies>
-      <dependency>
+      <dependency> 
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
@@ -52,7 +52,7 @@
 		<snapshotRepository>
 			<id>deployment</id>
 			<name>snapshots</name>
-			<url>http://10.128.0.22:8081/repository/maven-snapshots/</url>
+			<url>http://34.66.90.234:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	
